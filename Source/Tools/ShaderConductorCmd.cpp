@@ -29,6 +29,7 @@
 #include <iostream>
 #include <string>
 #include <vector>
+#include <limits>
 
 #ifdef _MSC_VER
 #pragma warning(push)
