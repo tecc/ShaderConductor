@@ -35,7 +35,6 @@
 #pragma warning(push)
 #pragma warning(disable : 4819)
 #endif
-#include <limits>
 #include <cxxopts.hpp>
 #ifdef _MSC_VER
 #pragma warning(pop)
